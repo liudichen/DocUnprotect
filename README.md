@@ -11,4 +11,4 @@
 7.  可能存在一些BUG，仅在我的2台电脑上试过。
 
 
-####  可直接下载dist中exe文件使用，或者自行下载使用pyinstaller打包，注意修改.spec中的相关信息（比如路径）。 在工作目录下  pyinstall docxunprotect.spec即可。
+####  可直接下载右侧release中exe文件使用，或者自行下载使用pyinstaller打包，注意修改.spec中的相关信息（比如路径）。 在工作目录下  pyinstall docxunprotect.spec即可。
